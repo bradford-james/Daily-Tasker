@@ -1,0 +1,43 @@
+{
+    "columns": [
+        {
+            "id": "f654fa7d",
+            "title": "Early Morning",
+            "timeblocks": [5,6,7,8]
+        },
+        {
+            "id": "431730cd",
+            "title": "Morning",
+            "timeblocks": [9,10,11,12]
+        },
+        {
+            "id": "fb205173",
+            "title": "Afternoon",
+            "timeblocks": [13,14,15,16,17]
+        },
+        {
+            "id": "6a577730",
+            "title": "Evening",
+            "timeblocks": [18,19,20,21,22]
+        }
+    ],
+    "events": [
+        {
+            "id": "8065110d",
+            "name": "Doctor's Appointment",
+            "time": "",
+            "source": "googleCalendar"
+        }
+    ],
+    "weather": [
+        {
+            "id": "",
+            "time": "",
+            "condition": "",
+            "temperature": "",
+            "precipitation": ""
+        }
+    ],
+    "focusItems": [],
+    "researchItems": []
+}
